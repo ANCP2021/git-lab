@@ -55,4 +55,11 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
-Answer 10: 
+Answer 10: No the README.md files are not the same.
+
+Answer 11: An error would have been shown.  (Ran "git pull" before I ran "git push" to show the error)
+
+Answer 12: The changes I made online are reflected in my local directory.  
+
+Answer 13: .               ..              .git            README.md       answers.md      git-lab-2
+
